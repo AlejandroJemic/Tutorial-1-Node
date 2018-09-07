@@ -1,0 +1,66 @@
+Node.js Tutorial For Absolute Beginners
+https://www.youtube.com/watch?v=U8XF6AFGqlc&index=9&t=0s&list=WL
+
+Traversy Media
+Publicado el 18 nov. 2016
+
+This is an introduction to Node.js for beginners. We will talk about...
+
+What Node.js Is
+Installing Node.js
+Using the REPL
+NPM - Node Package Manager
+How Modules Work
+package.json File
+Basic Webserver
+
+NODE.JS DEV TO DEPLOYMENT UDEMY COURSE:
+https://www.udemy.com/nodejs-express-...
+
+RECOMMENDED: Node.js & Express From Scratch
+https://www.youtube.com/watch?v=k_0Zz...
+
+SUPPORT THIS CHANNEL WITH A CUP OF COFFEE PER MONTH:
+http://www.patreon.com/traversymedia
+
+ONE TIME DONATIONS:
+http://www.paypal.me/traversymedia
+Categoría
+Ciencia y tecnología
+
+muy rapido y eficiente
+node es asincrono, recive eventos y retorn un calback cuando finaliza 
+fro rest apis
+real time services chat, games
+blogs, cms, aplicaciones sociales,
+que no sean cpu intensivo
+soporta miles de conecciones al mismo tiempo
+
+npm: manejador de paketes
+npm install xxx [-g]
+npm remove xxx  [-g]
+npm int
+nom install
+npm start
+populares: express, Connect, socket.io, Mongo, Mongoose, redis
+
+archivo package.json
+espesfica los paquetes que se usan en la aplicacion, la version  minima o espesifica
+tambien los script que se pueden ejecutar ocon npm
+
+en cmd , node + enter abre la ocnsola RELP de node
+.exit para salir
+se puede ejecutar cualquier comando valido de node
+
+para ejetutar un script desde cmd:
+node nombre.js
+node nombre
+o definir script en package.json
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+luego desde cmd
+npm start
+
+
+
